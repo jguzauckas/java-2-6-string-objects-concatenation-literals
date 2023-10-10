@@ -1,6 +1,6 @@
 # `String` Objects: Concatenation, Literals, and More
 
-
+Our primitive types are helpful as they describe numbers, true/false values, or even letters, but sometimes we want to be able to write out plain text and work with it in a program, this is where the **`String`** class comes into play.
 
 ---
 
